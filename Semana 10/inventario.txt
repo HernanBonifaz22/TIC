@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "nombre": "Camas",
+    "cantidad": 15,
+    "precio": 90.0
+  },
+  {
+    "id": "2",
+    "nombre": "Comedores de 6",
+    "cantidad": 8,
+    "precio": 160.0
+  }
+]
