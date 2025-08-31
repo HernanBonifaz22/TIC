@@ -261,7 +261,7 @@ class SistemaInventario:
         nombre = input("Nombre a buscar: ").strip()
 
         if not nombre:
-            print("❌ Error: Ingrese un nombre para buscar.")
+            print(" Error: Ingrese un nombre para buscar.")
             return
 
         resultados = self.inventario.buscar_por_nombre(nombre)
